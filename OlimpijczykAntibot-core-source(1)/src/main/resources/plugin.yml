@@ -1,0 +1,6 @@
+name: OlimpijczykAntibot-core
+version: 1.0.0
+main: pl.fireclient.antibot.FireAntiBot
+api-version: '1.21'
+author: FireClient
+description: OlimpijczykAntibot-core - weryfikacja graczy przez GUI kowadla

@@ -1,0 +1,26 @@
+# Czas na wykonanie weryfikacji (sekundy)
+verification-time: 60
+
+# Dlugosc generowanego kodu
+code-length: 5
+
+# Dozwolone znaki kodu
+code-characters: "ABCDEFGHJKLMNPQRSTUVWXYZ23456789"
+
+# Teksty GUI
+gui:
+  title-prefix: "&7KOD: &b"
+  input-placeholder: "Wpisz kod tutaj"
+  paper-name: "&fWpisz kod z tytulu kowadla"
+  paper-lore:
+    - "&7Wpisz kod w polu powyzej"
+    - "&7Przepisz kod z tytulu kowadla"
+    - "&7Nastepnie kliknij zielony barwnik"
+  cancel-name: "&cAnuluj weryfikacje"
+  accept-name: "&aAkceptuj weryfikacje"
+
+messages:
+  success: "&aWeryfikacja zakonczona pomyslnie!"
+  wrong-code: "&cNieprawidlowy kod. Sprobuj ponownie."
+  timeout: "&cNie udalo sie ukonczyc weryfikacji na czas."
+  cancelled: "&cAnulowano weryfikacje."
